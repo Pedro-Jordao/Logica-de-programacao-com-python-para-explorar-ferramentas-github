@@ -1,6 +1,6 @@
 # Lógica de Programação
 
-⚠️ Este README refere-se a um projeto para nota/aprovação em um Bootcamp da DIO, alinhado à "Descrição do Desafio". Entregas podem ser apresentadas aqui.
+⚠️ Este README refere-se a um projeto para nota/aprovação em um Bootcamp da DIO, alinhado à "Descrição do Desafio".
 
 ## 📚 Sobre o Projeto
 
