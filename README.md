@@ -2,6 +2,22 @@
 The following repository was created by me as part of a Bootcamp project for evaluation and approval purposes. Although the task involves basic steps and configurations, the implementation was carried out according to the requirements described in the Challenge Description.
 
 O repositório a seguir foi criado por mim como parte de um projeto de Bootcamp para fins de avaliação e aprovação. Embora a tarefa envolva etapas e configurações básicas, a implementação foi realizada de acordo com os requisitos descritos na Descrição do Desafio.
+## 🎯 Objetivos (reais) do Projeto
+
+Ao concluir este desafio, você será capaz de:
+
+- ✅ Realizar um **fork** do repositório.
+- ✅ Criar uma **issue** no repositório forkado.
+- ✅ Criar uma **branch** para desenvolver melhorias ou correções.
+- ✅ Configurar um **project** para organizar as issues.
+- ✅ Convidar outra conta como **colaboradora** do repositório.
+- ✅ Criar um **pull request** para enviar as mudanças da branch para a branch principal.
+- ✅ Realizar o **merge** do pull request na branch principal.
+- ✅ Criar e manter uma **wiki** para o projeto.
+- ✅ Organizar e compreender o uso de **Codespaces** no GitHub.
+- ✅ Utilizar o **GitHub Copilot** com precisão para auxiliar no desenvolvimento.
+- ✅ Compreender e aplicar corretamente as **roles e permissões** no GitHub.
+
 
 ## 📚 Sobre o Projeto
 
