@@ -1,6 +1,7 @@
 # Lógica de Programação
+The following repository was created by me as part of a Bootcamp project for evaluation and approval purposes. Although the task involves basic steps and configurations, the implementation was carried out according to the requirements described in the Challenge Description.
 
-⚠️ Este README refere-se a um projeto para nota/aprovação em um Bootcamp da DIO, alinhado à "Descrição do Desafio".
+O repositório a seguir foi criado por mim como parte de um projeto de Bootcamp para fins de avaliação e aprovação. Embora a tarefa envolva etapas e configurações básicas, a implementação foi realizada de acordo com os requisitos descritos na Descrição do Desafio.
 
 ## 📚 Sobre o Projeto
 
